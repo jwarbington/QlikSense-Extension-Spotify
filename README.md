@@ -10,3 +10,10 @@ Review the Qlik Help site for details on how to install this extension: (http://
 1. Add the extension to a Qlik Sense app, or use the included example "Spotify - Music Analyzer" qvf.
 2. Provide the appropriate Spotify URI to the extension to bring in a Spotify playlist, album, artist, or song. URIs can be found in the Spotify application under the share options (https://support.spotify.com/us/using_spotify/system_settings/why-do-you-have-two-different-link-formats/) or on the web. 
 3. Hit play and enjoy music while you analyze data.
+
+# Options
+You can choose a Dark theme:
+![QlikSense-Extension-Spotify](Screenshot_2.png)
+
+Or you can choose a White theme:
+![QlikSense-Extension-Spotify](Screenshot_3.png)
